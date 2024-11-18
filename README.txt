@@ -1,14 +1,13 @@
-Luxury Wheels é uma empresa de aluguer de carros, a aplicação é dedicada à gestão da frota onde conseguimos ver todas as informações de Reservas feitas, Veículos que estejam ou não alugados, informações sobre Clientes, Formas de Pagamento e até mesmo outros Utilizadores, no entanto de não for um administrador não terá acesso a essa mesma parte de gerir Utilizadores nem a uma outra função de ver movimentos feitos por utilizadores na aplicação.
+Luxury Wheels is a car rental company. The application is dedicated to fleet management, allowing us to view all information about Reservations made, Vehicles (whether rented or not), Customer details, Payment Methods, and even other Users. However, if you are not an administrator, you will not have access to manage Users or view activities performed by users in the application.
 
-Este projeto foi-me pedido no Projeto Final da Tokio School e as informações seriam apenas mostradas no Dashboard inicial pedido, também gerir Reservas, Clientes, Veiculos, Utilizadores e Formas de Pagamento e dentro do pedido decidi adicionar algumas funções tais como:
+This project was assigned to me as part of the Final Project at Tokio School, and the requirements were primarily to display the information on the initial Dashboard, as well as manage Reservations, Customers, Vehicles, Users, and Payment Methods. Within the scope of the project, I decided to add some extra functionalities, such as:
 
--Janela Log-In
--Administradores
--Ver Informações nas tabelas e não apenas em gráfico
--Ver detalhes (Com imagem caso queiram alterar na DB e confirmar sem ter de sair da App)
--Não é possivel eliminar um veículo que esteja reservado no momento
--Ver informações por Ano também (foi apenas pedido por mês)
-
-Foi um projeto desafiante mas muito interessante que gostei de fazer, sendo o primeiro projeto tão grande notam-se diferenças até no código do início para o fim, mais organizado e limpo (o dashboard foi o último passo a fazer).
+Log-In Window
+Administrators functionality
+Viewing information in tables, not just in graphs
+Viewing detailed information
+Preventing deletion of a vehicle that is currently reserved
+Viewing information by year (initially, it was only required by month)
+This was a challenging but very engaging project that I thoroughly enjoyed working on. Being my first large-scale project, clear improvements can be seen in the code from start to finish, becoming more organized and clean over time (the dashboard was the final step of development).
 
 Diogo Antunes
